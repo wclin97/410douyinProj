@@ -1,0 +1,11 @@
+[410proj]2022/06/12 20:43:38 user.go:39: User:[user_id=1] registered successfully!
+[410proj]2022/06/12 20:47:51 publish.go:74: Saved the video. [filename = 1_wx_camera_1654687389345.mp4].
+[410proj]2022/06/12 20:47:51 publish.go:79: Capture the video's cover. [filename = 1_wx_camera_1654687389345.mp4].
+[410proj]2022/06/12 20:47:51 publish.go:87: Add the Video to database. [filename = 1_wx_camera_1654687389345.mp4].
+[410proj]2022/06/12 20:47:51 publish.go:101: Add the Video to aothor's public List. [video_id = 1].
+[410proj]2022/06/12 20:48:35 user.go:39: User:[user_id=2] registered successfully!
+[410proj]2022/06/12 20:49:10 comment.go:31: User: [369@163.com_rrrrrttt] add a comment
+[410proj]2022/06/12 20:49:38 publish.go:74: Saved the video. [filename = 2_wx_camera_1645062215961.mp4].
+[410proj]2022/06/12 20:49:38 publish.go:79: Capture the video's cover. [filename = 2_wx_camera_1645062215961.mp4].
+[410proj]2022/06/12 20:49:38 publish.go:87: Add the Video to database. [filename = 2_wx_camera_1645062215961.mp4].
+[410proj]2022/06/12 20:49:38 publish.go:101: Add the Video to aothor's public List. [video_id = 2].
